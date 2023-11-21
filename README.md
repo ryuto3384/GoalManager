@@ -1,8 +1,11 @@
 # GoalManager
-** やったこと **
+### やったこと
 ・DatePickerを使った日付選択
+
 ・円形のプログレスバー
+
 ・realmを使ったTodoリスト
+
 ![Simulator Screenshot - iPhone 15 Pro - 2023-11-21 at 10 24 24](https://github.com/ryuto3384/GoalManager/assets/135288318/6b6b6192-3694-42d9-b8e3-3511f4aebc3e)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-11-21 at 10 24 56](https://github.com/ryuto3384/GoalManager/assets/135288318/26bb7a7a-4942-408d-8c20-ac9ac037b27c)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-11-21 at 10 25 03](https://github.com/ryuto3384/GoalManager/assets/135288318/3e7c2f2f-4f37-4dcc-914b-45d628a1aff2)
